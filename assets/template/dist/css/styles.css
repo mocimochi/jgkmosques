@@ -1,0 +1,124 @@
+/* styles.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+h5{
+	margin-bottom: 18px;
+}
+.bgmosque {
+            width: 100%;
+            height: 300px; /* Sesuaikan tinggi gambar sesuai kebutuhan */
+            object-fit: cover; /* Menyembunyikan bagian yang tidak muat ke dalam kotak */
+            border-radius: 8px;
+        }
+.teks-di-gambar {
+            position: absolute;
+            top: 20%; /* Posisikan pada tengah vertikal */
+            left: 50%; /* Posisikan pada tengah horizontal */
+            transform: translate(-50%, -50%); /* Geser setengah dari lebar dan tinggi elemen */
+            color: #fff;
+            font-size: 56px;
+            font-weight: bold;
+            text-align: center;
+        }
+.deskripsi-awal {
+	font-style: italic;
+    color: #333; /* Warna teks yang berbeda */
+    text-align: center; /* Pusatkan teks */
+	padding: 1em;
+	margin-bottom: 20px;
+}
+.main-header {
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.navbar {
+    background-color: #161618; 
+}
+
+.navbar-nav .nav-item {
+    margin-right: 15px;
+}
+
+.navbar-nav .nav-link {
+    color: #ffffff !important;
+
+}
+
+.navbar-nav .nav-link:hover {
+    color: #336BFF !important; 
+}
+
+.content-wrapper {
+    margin: 20px;
+}
+
+.gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 20px;
+        }
+.gallery figure {
+            position: relative;
+        }
+.gallery img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: transform 0.3s;
+        }
+.gallery img:hover {
+            transform: scale(1.1);
+        }
+.gallery figcaption {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background-color: rgba(0, 0, 0, 0.7);
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+            border-bottom-left-radius: 8px;
+            border-bottom-right-radius: 8px;
+        }
+.person {
+            text-align: center;
+            margin: 20px;
+        }
+        .person img {
+            width: 100px;
+            height: 100px;
+            object-fit: cover;
+            border-radius: 50%;
+        }
+        .person h3 {
+            margin-top: 10px;
+            color: #333;
+        }
+        .person p {
+            color: #666;
+        }
+.introduction {
+            display: flex;
+            justify-content: space-around;
+        }

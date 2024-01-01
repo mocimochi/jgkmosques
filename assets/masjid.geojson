@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "masjid",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FGSIBD": 1, "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 106.810915033000072, -6.317917363999925, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FGSIBD": 1, "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 106.843448908000084, -6.305019870999956, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FGSIBD": 1, "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 106.83726008900004, -6.322423835999928, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FGSIBD": 1, "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 106.849517051000078, -6.300933728999951, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FGSIBD": 1, "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 106.849939292000045, -6.305005194999978, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FGSIBD": 1, "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 106.845662481000033, -6.311250836999932, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FGSIBD": 1, "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 106.855357463000075, -6.309837817999949, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FGSIBD": 1, "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 106.838002754000058, -6.315594589999932, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FGSIBD": 1, "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 106.805920470000046, -6.336139841999966, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FGSIBD": 1, "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 106.830650959000081, -6.336676396999962, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FGSIBD": 1, "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 106.827278092000086, -6.340977124999938, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FGSIBD": 1, "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 106.812522223000087, -6.344625745999963, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FGSIBD": 1, "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 106.811417230000075, -6.351968899999974, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FGSIBD": 1, "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 106.804899638000052, -6.338352486999952, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FGSIBD": 1, "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 106.812491437000062, -6.32741748199993, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FGSIBD": 1, "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 106.832019401000082, -6.330924410999955, 0.0 ] } }
+]
+}
